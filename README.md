@@ -6,7 +6,7 @@ I'm a self-taught passionate Flutter developer and YouTube content creator from 
 
 **About me**
 
-- 💼 Flutter Developer and Content Creator at [Your YouTube Channel](https://www.youtube.com/c/YourChannelName)
+- 💼 Flutter Developer and Content Creator at [Your YouTube Channel]([https://www.youtube.com/c/YourChannelName](https://www.youtube.com/@salahalsamarraaee650))
 
 - 📱 Specialized in building beautiful and performant mobile apps with Flutter
 
